@@ -6,9 +6,10 @@
  than 3 minutes copying code I don't understand."
 ```
 
-CS student by paper, self-taught by choice. I build stuff, break stuff, and figure out how it all works underneath. Currently deep in web dev, AI tools, and automating things that shouldn't need a human doing them manually.
+CS student by degree, self-taught by choice. I like building things, breaking them, and understanding how they actually work.
 
-Based in Pakistan 🇵🇰 — building anyway.
+Right now, I’m focused on web development, AI tools, and automation.\
+Based in Pakistan 🇵🇰.
 
 ---
 
@@ -30,12 +31,17 @@ Based in Pakistan 🇵🇰 — building anyway.
 
 ---
 
-### 🔨 what I'm working on
+Cleaned it up — same meaning, just smoother and less “trying to prove something”:
 
-- **Orbia** — my main project, a Next.js app with some real architecture behind it. not just a tutorial clone.
-- **AI stuff** — building workflows with n8n, poking at Claude's API, seeing how far I can push automation
-- **DSA in C++** — because understanding algorithms > memorizing them
-- **deployment/cloud** — slowly making peace with servers and infra
+---
+
+### 🔨 What I’m working on
+
+**Building small projects** — learning how systems work by actually making things.
+**AI tools** — exploring APIs, n8n, and basic automation ideas.
+**DSA in C++** — practicing problem solving and understanding core concepts.
+**Deployment & cloud basics** — learning how to put projects online and how servers work.
+
 
 ---
 
