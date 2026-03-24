@@ -37,9 +37,9 @@ Cleaned it up — same meaning, just smoother and less “trying to prove someth
 
 ### 🔨 What I’m working on
 
-**Building small projects** — learning how systems work by actually making things.
-**AI tools** — exploring APIs, n8n, and basic automation ideas.
-**DSA in C++** — practicing problem solving and understanding core concepts.
+**Building small projects** — learning how systems work by actually making things.\
+**AI tools** — exploring APIs, n8n, and basic automation ideas.\
+**DSA in C++** — practicing problem solving and understanding core concepts.\
 **Deployment & cloud basics** — learning how to put projects online and how servers work.
 
 
