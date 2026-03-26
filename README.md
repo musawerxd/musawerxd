@@ -31,10 +31,6 @@ Based in Pakistan 🇵🇰.
 
 ---
 
-Cleaned it up — same meaning, just smoother and less “trying to prove something”:
-
----
-
 ### 🔨 What I’m working on
 
 **Building small projects** — learning how systems work by actually making things.\
